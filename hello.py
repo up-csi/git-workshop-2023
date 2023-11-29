@@ -1,1 +1,1 @@
-print('good and bad')
+print('hello')
