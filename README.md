@@ -8,6 +8,8 @@ Nico Sebastian B. Ramos
 
 
 Lanz Anjelo L. Conanan  
+
+
 ---
 ## Partners
 This workshop is co-hosted by [Secuna](https://secuna.io), in partnership with UP CURSOR and UP ACM.
