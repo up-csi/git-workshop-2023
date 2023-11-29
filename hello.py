@@ -1,1 +1,1 @@
-print('bad')
+print('good and bad')
