@@ -5,6 +5,8 @@ This repository serves as a check-in for attendees of the **Git Workshop for Mod
 ---
 ## Attendees
 
+Sidney Lance Cruz Fernando 🤩🙏
+
 ---
 ## Partners
 This workshop is co-hosted by [Secuna](https://secuna.io), in partnership with UP CURSOR and UP ACM.
