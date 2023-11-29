@@ -6,6 +6,7 @@ This repository serves as a check-in for attendees of the **Git Workshop for Mod
 ## Attendees
 
 Victor Edwin E Reyes
+
 ---
 ## Partners
 This workshop is co-hosted by [Secuna](https://secuna.io), in partnership with UP CURSOR and UP ACM.
