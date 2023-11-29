@@ -4,7 +4,9 @@ This repository serves as a check-in for attendees of the **Git Workshop for Mod
 
 ---
 ## Attendees
-
+Brylle Logrono
+Harold Antonio
+David Zamuco
 ---
 ## Partners
 This workshop is co-hosted by [Secuna](https://secuna.io), in partnership with UP CURSOR and UP ACM.
