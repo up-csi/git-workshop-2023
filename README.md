@@ -7,11 +7,8 @@ This repository serves as a check-in for attendees of the **Git Workshop for Mod
 * [sfcnls](https://github.com/sfcnls/)
 * [Victor Edwin E Reyes](https://github.com/VeeIsForVanana)
 * [Sidney Lance Cruz Fernando 🤩🙏](https://github.com/slcfernando)
-<<<<<<< HEAD
-* [Anton Bolado 🧍‍♂️](https://github.com/boladss)
-=======
 * [Dale Flores](https://github.com/exos7)
->>>>>>> 4367943905f923a913df3a2b746033fe76f1bb5e
+* [Anton Bolado 🧍‍♂️](https://github.com/boladss)
 ---
 ## Partners
 This workshop is co-hosted by [Secuna](https://secuna.io), in partnership with UP CURSOR and UP ACM.
