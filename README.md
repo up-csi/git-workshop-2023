@@ -8,6 +8,7 @@ This repository serves as a check-in for attendees of the **Git Workshop for Mod
 * [Victor Edwin E Reyes](https://github.com/VeeIsForVanana)
 * [Sidney Lance Cruz Fernando 🤩🙏](https://github.com/slcfernando)
 * [Dale Flores](https://github.com/exos7)
+* Marcus Joaquim D. Pascual
 ---
 ## Partners
 This workshop is co-hosted by [Secuna](https://secuna.io), in partnership with UP CURSOR and UP ACM.
