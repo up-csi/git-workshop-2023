@@ -4,7 +4,9 @@ This repository serves as a check-in for attendees of the **Git Workshop for Mod
 
 ---
 ## Attendees
-
+* [sfcnls](https://github.com/sfcnls/)
+* [Victor Edwin E Reyes](https://github.com/VeeIsForVanana)
+* [Sidney Lance Cruz Fernando 🤩🙏](https://github.com/slcfernando)
 ---
 ## Partners
 This workshop is co-hosted by [Secuna](https://secuna.io), in partnership with UP CURSOR and UP ACM.
