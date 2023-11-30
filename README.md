@@ -5,7 +5,7 @@ This repository serves as a check-in for attendees of the **Git Workshop for Mod
 ---
 ## Attendees
 
-Sidney Lance Cruz Fernando 🤩🙏
+* Sidney Lance Cruz Fernando 🤩🙏
 
 ---
 ## Partners
