@@ -11,7 +11,7 @@ This repository serves as a check-in for attendees of the **Git Workshop for Mod
 * Marcus Joaquim D. Pascual
 * [Anton Bolado 🧍‍♂️](https://github.com/boladss)
 * [Mikel Reinan B. Arcardo 🔥](https://github.com/mikelReinanArcardo) 
-* [Ellis Caluag]()
+* [Ellis Caluag](https://github.com/Dox-Dev)
 ---
 ## Partners
 This workshop is co-hosted by [Secuna](https://secuna.io), in partnership with UP CURSOR and UP ACM.
