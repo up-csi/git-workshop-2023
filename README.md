@@ -14,6 +14,7 @@ This repository serves as a check-in for attendees of the **Git Workshop for Mod
 * [Mikel Reinan B. Arcardo 🔥](https://github.com/mikelReinanArcardo) 
 * [Ellis Caluag](https://github.com/Dox-Dev)
 * [Eriene Galinato](https://github.com/Hooman1214)
+* john achapero jr 💀💀💀
 
 ---
 
