@@ -4,7 +4,7 @@ This repository serves as a check-in for attendees of the **Git Workshop for Mod
 
 ---
 ## Attendees
-john achapero jr 💀💀💀
+* john achapero jr 💀💀💀
 
 ---
 ## Partners
