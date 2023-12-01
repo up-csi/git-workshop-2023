@@ -5,7 +5,7 @@
 
 # 🚀 Git Workshop for Modern Software Engineers 🚀
 
-The **Git Workshop for Modern Software Engineers** is an initiative by [Basti Ortiz](https://bastidood.github.io/) (@BastiDood) in partnership with the [UP Center for Student Innovations (UP CSI)][up-csi] and in cooperation with the [UP Association of Computer Science Majors (UP CURSOR)][cursor] and the [Association for Computing Machinery - UP Diliman Student Chapter, Inc. (UP ACM)][acm].
+The **Git Workshop for Modern Software Engineers** is an initiative by [Basti Ortiz](https://bastidood.github.io/) in partnership with the [UP Center for Student Innovations (UP CSI)][up-csi] and in cooperation with the [UP Association of Computer Science Majors (UP CURSOR)][cursor] and the [Association for Computing Machinery - UP Diliman Student Chapter, Inc. (UP ACM)][acm].
 
 In this first installment (of possibly many more in a series of workshops on team collaboration and software engineering), we focused on the basics of the Git version control system, GitHub workflows, forks, pull requests, collaboration best practices, and repository security.
 
