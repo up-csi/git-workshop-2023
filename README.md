@@ -27,3 +27,4 @@ As proof of attendance, we certify that the following individuals have successfu
 * [Ellis Caluag](https://github.com/Dox-Dev)
 * [Eriene Galinato](https://github.com/Hooman1214)
 * john achapero jr 💀💀💀
+* [Hans Miguel S. Salazar](https://github.com/Hascion)
