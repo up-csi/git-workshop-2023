@@ -28,3 +28,4 @@ As proof of attendance, we certify that the following individuals have successfu
 * [Eriene Galinato](https://github.com/Hooman1214)
 * john achapero jr 💀💀💀
 * [Hans Miguel S. Salazar](https://github.com/Hascion)
+* [Eliana Lim](https://github.com/ElianaLim)
